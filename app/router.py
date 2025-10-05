@@ -7,7 +7,7 @@ from app.responses import get_response
 
 # Configurar router e templates
 router = APIRouter()
-templates = Jinja2Templates(directory="templates")
+templates = Jinja2Templates(directory="/Templates")
 
 
 # Model para mensagens
