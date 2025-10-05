@@ -9,7 +9,7 @@ Este é o assistente virtual do sistema PowerApps de empréstimo de ferramentas.
 ## 🚀 Como Acessar
 
 1. Abra seu navegador (Chrome, Edge, Firefox ou Safari)
-2. Digite na barra de endereço: **http://localhost:8000**
+2. Digite na barra de endereço: **https://chat-da-ferramentaria.onrender.com**
 3. Aguarde a página carregar
 4. Pronto! O chat está aberto e funcionando
 
