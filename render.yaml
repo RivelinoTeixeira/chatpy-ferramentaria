@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: chat-ferramentaria
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: EMAIL_REMETENTE
+        sync: false
+      - key: EMAIL_SENHA
+        sync: false
